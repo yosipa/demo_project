@@ -1,0 +1,8 @@
+Bank marketing dataset
+https://www.kaggle.com/volodymyrgavrysh/bank-marketing-campaigns-dataset
+
+Euribor rates
+https://www.global-rates.com/interest-rates/euribor/euribor-interest-12-months.aspx
+
+Employment rates
+https://data.oecd.org/emp/employment-rate.htm
